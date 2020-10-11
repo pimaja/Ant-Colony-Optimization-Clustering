@@ -1,3 +1,6 @@
 # Klasteriranje_pomocu_ACO
 
-## (Maja Piskač i Lucija Puškarić)
+### (Maja Piskač i Lucija Puškarić)
+
+Projekt u sklopu kolegija Meta-heuristike na 2. godini diplomskog studija Računarstvo i matematika (PMF-MO). 
+Rješavanje problema klasteriranja (eng. clustering) podataka pomoću mravljeg algoritma točnije Ant Colony Optimization algoritma.
