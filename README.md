@@ -3,4 +3,5 @@
 ### (Maja Piskač i Lucija Puškarić)
 
 Projekt u sklopu kolegija Meta-heuristike na 2. godini diplomskog studija Računarstvo i matematika (PMF-MO). 
-Rješavanje problema klasteriranja (eng. clustering) podataka pomoću mravljeg algoritma točnije Ant Colony Optimization algoritma.
+Rješavanje problema klasteriranja (eng. clustering) podataka pomoću mravljeg algoritma točnije Ant Colony Optimization algoritma. Usporedba rezultata s rezultatima dobivenim 
+k-means algoritmom.
